@@ -1,6 +1,6 @@
 # IPL-Data-Analysis-2008-2016
 
-I have tried to analyse IPL dataset from 2008-2016 in an attempt to learn more about data analysing and how the Python libraries like Pandas, Numpy, Matplotlib, seaborn etc work.
+I have tried to analyse IPL dataset from 2008-2016 in an attempt to learn more about data analysing and how the Python libraries like Pandas, Numpy, Matplotlib, seaborn, etc work.
 
 ## Inferences and conclusion
 1. A total of 577 matches were played between 2008 - 2016
